@@ -1,0 +1,45 @@
+*{margin: o;
+padding: 0;
+}
+
+#container{
+    width: 100%;
+    background: red;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+header{
+    width: 100%;
+    height:9.374rem;
+    background: lightblue;
+    color: #333;
+    line-height: 9.375rem;
+    text-align: center;
+}
+
+aside{
+    width: 25%;
+    float: left;
+    background: aliceblue;
+    color: #333;
+    line-height: 9.375rem;
+    text-align: center;
+    min-height: 700px;
+}
+#articles{
+    width: 90%;
+    float: left;
+    line-height: 9.375rem;
+    text-align: center;
+    min-height: 700px;
+}
+
+#articles article{
+    width: 40%;
+    float: left;
+    background: green;
+
+}
