@@ -13,7 +13,7 @@ padding: 0;
 
 header{
     width: 100%;
-    height:9.374rem;
+    height:9.375rem;
     background: lightblue;
     color: #333;
     line-height: 9.375rem;
@@ -30,7 +30,7 @@ aside{
     min-height: 700px;
 }
 #articles{
-    width: 90%;
+    width: 75%;
     float: left;
     line-height: 9.375rem;
     text-align: center;
@@ -38,7 +38,9 @@ aside{
 }
 
 #articles article{
-    width: 40%;
+    width: 20%;
+    float: left;
+    margin: 10px;
     background: green;
 
 }
